@@ -1,2 +1,4 @@
-# Lab-3
-This is a shopping website built using nodejs
+Lab 3 NODEJS shopping website 
+
+Name: Saurabh Girish Narayanan
+ID: H00390280
